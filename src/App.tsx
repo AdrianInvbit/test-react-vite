@@ -33,7 +33,7 @@ export default function App() {
     <div className="app-shell">
       <header className="site-header">
         <p className="eyebrow">Laboratorio de pruebas</p>
-        <h1>ClonVercel Test Lab</h1>
+        <h1>ClonVercel Test Lab — Versión 2</h1>
         <p className="lede">Panel de control React para validar importación Git y despliegue.</p>
         <nav className="site-nav" aria-label="Secciones del panel">
           {SECTIONS.map((item) => (
